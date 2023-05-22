@@ -1,0 +1,69 @@
+<mxfile host="app.diagrams.net" modified="2023-05-22T05:16:07.958Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="HbDCb8cCTNEtijc63_Ja" version="21.3.2" type="device">
+  <diagram name="페이지-1" id="oQPXWnmVRuUXl9ug4HT7">
+    <mxGraphModel dx="662" dy="372" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-1" target="mEmsqWvN-kTzKM2D8AED-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-1" value="관리자(DBA)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="80" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-2" value="Storage" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="630" y="645" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-3" target="mEmsqWvN-kTzKM2D8AED-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-3" target="mEmsqWvN-kTzKM2D8AED-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-3" value="Sys 로그인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="670" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-6" target="mEmsqWvN-kTzKM2D8AED-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="510" y="740" />
+              <mxPoint x="365" y="740" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-6" value="DB,User Create&lt;br&gt;DB,User DROP&lt;br&gt;DB Alter" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="655" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-7" value="DDL&lt;br&gt;(Data Definition Lang)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="620" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-8" target="mEmsqWvN-kTzKM2D8AED-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-8" value="유저(User)" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="330" y="800" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-10" target="mEmsqWvN-kTzKM2D8AED-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-10" value="User 로그인" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="820" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-13" value="CREATE : INSERT&lt;br&gt;READ : SELECT&lt;br&gt;UPDATE : UPDATE&lt;br&gt;DELETE : DELTE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="805" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-14" value="DML&lt;br&gt;(Data Manuplulation Lang)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="770" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mEmsqWvN-kTzKM2D8AED-15" target="mEmsqWvN-kTzKM2D8AED-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-15" value="GRANT,&amp;nbsp;REVOKE&lt;br&gt;COMMIT,&amp;nbsp;ROLL BACK" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mEmsqWvN-kTzKM2D8AED-18" value="DCL&lt;br&gt;(Data Control Lang)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="490" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
