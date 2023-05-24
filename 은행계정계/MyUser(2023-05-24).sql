@@ -49,6 +49,33 @@ SELECT *
 FROM tbl_acc
 WHERE acBalance >= 20000;
 
+-- 1개의 칼럼에 다수의 조건 검색이 필요한 경우
+-- OR 연산일 경우 IN 키워드를 사용할 수 있다.
+SELECT *
+FROM tbl_acc
+WHERE acBuid IN ('0001','0003');
+
+-- 잔액이 10000 ~ 20000 인 데이터 조회
+SELECT *
+FROM tbl_acc
+WHERE acBalance >= 10000 AND acBalance <= 20000; 
+
+-- 각각 범위 값이 포함관계( >=, <= )인경우
+-- BETWEEN 키워드로 검색 가능
+SELECT * 
+FROM tbl_acc
+WHERE acBalance BETWEEN 10000 AND 20000;
+
+-- acBuId 에 0001 OR 0003 의 반대인 경우
+-- acBuid 에 0001 도 아니고 0003 도 아닌 값의 조건검색
+SELECT *
+FROM tbl_acc
+WHERE NOT acBuId IN ('0001','0003');
+
+-- 위와 같은 결과의 코드
+SELECT * 
+FROM tbl_acc
+WHERE acBuid != '0001' AND acBuid <> '0003';
 
 
 
