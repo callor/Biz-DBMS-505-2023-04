@@ -77,6 +77,32 @@ SELECT *
 FROM tbl_acc
 WHERE acBuid != '0001' AND acBuid <> '0003';
 
+DESCRIBE tbl_acc;
+
+-- table 의 구조 변경(DDL 명령을 사용)
+-- table 의 구조를 변경하는 것은 상당히 많은 비용이 소요된다
+-- 초기에 설계가 잘못된 경우 구조변경을 실시하는데 상당한 주의를 기울여야 한다
+-- 구조변경 과정에서 문제가 발생하면 데이터가 손상되는 문제가 있다
+-- 구조변경 할때 칼럼의 크기는 절대 줄여서 변경하면 안된다
+
+-- tbl_acc 의 acNum 칼럼의 길이가 VARCHAR2(10) 인데 
+-- 이 칼럼의 길이를 VARCHAR2(20)으로 변경
+ALTER TABLE tbl_acc MODIFY (acNum VARCHAR2(20));
+DESC tbl_acc;
+
+SELECT * FROM tbl_acc;
+
+-- SQL 에는 기본적으로 여러 기능을 수행하는 함수들이 내장되어 있다
+--  substr(칼럼,시작,개수) : 칼럼의 문자열을 시작 위치부터 개수 만큼 잘라내기
+-- max(칼럼) : 전체 리스트(조건에 맞는 데이터중에서) 중에서 가장 큰 값을 찾기
+-- min(칼럼) : 전체 리스트(조건에 맞는 데이터중에서) 중에서 가장 작은 값 찾기
+SELECT substr(max(acNum),9)
+FROM tbl_acc
+WHERE  substr(acNum,0,8) = '20230523';
+
+
+
+
 
 
 
