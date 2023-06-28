@@ -36,6 +36,10 @@ INSERT INTO tbl_accList(aioSEQ, acNum, aioDate, aioTime, aioDiv, aioInput, aioOu
 VALUES(seq_accList.NEXTVAL, '2023052401','2023-05-24','11:10:00','1',10000,0);
 
 SELECT * FROM tbl_accList;
+DELETE FROM tbl_accList;
+COMMIT ;
+
+SELECT * FROM tbl_acc;
 
 
 
