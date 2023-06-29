@@ -75,6 +75,19 @@ FROM tbl_address
 WHERE a_tel LIKE '____3%'
 ORDER BY a_tel;
 
+SELECT COUNT(*)
+FROM tbl_address
+WHERE SUBSTR(a_tel,5,1) = '3'
+ORDER BY a_tel;
+
+-- 전화번호 국번이 3으로 시작되는 전화 번호 중에서
+-- ID 가 가장 큰 데이터와, ID 가 가장 작은 데이터를 찾으시오
+
+SELECT MAX(a_id) AS 최대값, MIN(a_id) AS 최소값
+FROM tbl_address
+WHERE SUBSTR(a_tel,5,1) = '3';
+
+
 
 
 
