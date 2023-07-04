@@ -48,7 +48,7 @@ CREATE TABLE tbl_hobby (
     hb_name	nVARCHAR2(30)	NOT NULL	
 );
 
-
+SELECT COUNT(*) FROM tbl_hobby;
 
 
 
