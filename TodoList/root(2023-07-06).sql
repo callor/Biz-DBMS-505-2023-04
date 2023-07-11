@@ -68,6 +68,7 @@ TO 'todo'@'192.168.4.%';
 DROP USER 'todo'@'192.168.4.%' ;
 FLUSH PRIVILEGES;
 
+FLUSH PRIVILEGES;
 
 
 

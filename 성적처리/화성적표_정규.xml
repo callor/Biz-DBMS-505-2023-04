@@ -1,0 +1,4221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:x="urn:schemas-microsoft-com:office:excel"
+xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+xmlns:html="http://www.w3.org/TR/REC-html40">
+<Worksheet ss:Name="Table1">
+	<Table>
+		<Column ss:Index="1" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="2" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Column ss:Index="3" ss:AutoFitWidth="0" ss:Width="110"/>
+		<Row>
+			<Cell><Data ss:Type="String">sc_stnum</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="String">sc_kor</Data></Cell>
+		</Row>
+
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B001</Data></Cell>
+			<Cell><Data ss:Type="String">국어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B002</Data></Cell>
+			<Cell><Data ss:Type="String">영어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B003</Data></Cell>
+			<Cell><Data ss:Type="String">수학</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B004</Data></Cell>
+			<Cell><Data ss:Type="String">음악</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B005</Data></Cell>
+			<Cell><Data ss:Type="String">미술</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">92</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">74</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">68</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">62</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">67</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B006</Data></Cell>
+			<Cell><Data ss:Type="String">소프트웨어</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0001</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0002</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">90</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0003</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0004</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0005</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0006</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">98</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0007</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0008</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0009</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">50</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0010</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">83</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0011</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0012</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0013</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">53</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0014</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">77</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0015</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0016</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0017</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0018</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0019</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0020</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0021</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0022</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0023</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">82</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0024</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0025</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0026</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">89</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0027</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0028</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0029</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0030</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0031</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">58</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0032</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0033</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0034</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">54</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0035</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0036</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">95</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0037</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0038</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">86</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0039</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0040</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">91</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0041</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0042</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">55</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0043</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0044</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0045</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0046</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0047</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0048</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">80</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0049</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0050</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0051</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0052</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">85</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0053</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0054</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0055</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0056</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">93</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0057</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0058</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">97</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0059</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0060</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">52</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0061</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">94</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0062</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">72</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0063</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0064</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0065</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0066</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0067</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0068</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">56</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0069</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">79</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0070</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0071</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">96</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0072</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">84</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0073</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">69</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0074</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0075</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">51</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0076</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">73</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0077</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0078</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">59</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0079</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">61</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0080</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0081</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0082</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0083</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">71</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0084</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">65</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0085</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">100</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0086</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">57</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0087</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">99</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0088</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">76</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0089</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">70</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0090</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">88</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0091</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0092</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">87</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0093</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">60</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0094</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">75</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0095</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">81</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0096</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0097</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">64</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0098</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">63</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0099</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">66</Data></Cell>
+		</Row>
+		<Row>
+			<Cell><Data ss:Type="String">S0100</Data></Cell>
+			<Cell><Data ss:Type="String">B007</Data></Cell>
+			<Cell><Data ss:Type="String">데이터베이스</Data></Cell>
+			<Cell><Data ss:Type="Number">78</Data></Cell>
+		</Row>	</Table>
+</Worksheet>
+</Workbook>
