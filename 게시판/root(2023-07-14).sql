@@ -45,11 +45,25 @@ CREATE TABLE tbl_images (
 DESC tbl_bbs;
 SELECT * FROM tbl_bbs;
 
-INSERT INTO tbl_bbs (b_username)
-VALUES('callor');
+
 -- AUTO_INCREMENT 로 설정된 칼럼의 가장 
 -- 마지막 INSERT 된 데이터 가져오기
 SELECT LAST_INSERT_ID();
+
+INSERT INTO tbl_bbs (b_username)
+VALUES('callor1'),
+('callor2'),
+('callor3'),
+('callor4'),
+('callor5');
+SELECT * FROM tbl_bbs;
+SELECT * FROM tbl_images;
+
+TRUNCATE tbl_bbs;
+TRUNCATE tbl_images;
+
+SELECT * FROM tbl_bbs;
+SELECT * FROM tbl_images;
 
 
 
